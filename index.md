@@ -1,7 +1,7 @@
 ## Responsive Projects
 
-### chbs.jmu.edu
 ![Image](https://tsulli.github.io/images/chbs.png)
+### [http://chbs.jmu.edu/](http://chbs.jmu.edu/)
 
 - Uses CSS flex-box to create a flexible grid structure
 - Fully responsive
