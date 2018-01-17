@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Responsive Projects
 
 You can use the [editor on GitHub](https://github.com/tsulli/tsulli.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
