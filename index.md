@@ -1,5 +1,12 @@
 ## Responsive Projects
 
+### chbs.jmu.edu
+[!image] (images/chbs.png)
+
+- Uses CSS flex-box to create a flexible grid structure
+- Fully responsive
+- Accessible
+
 ## .NET Projects
 
 You can use the [editor on GitHub](https://github.com/tsulli/tsulli.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
